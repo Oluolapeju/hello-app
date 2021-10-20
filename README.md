@@ -1,5 +1,5 @@
 # hello-app
-################################################### MINIKUBE & HELM INSTALLATION ###############################################
+######################## MINIKUBE & HELM INSTALLATION #########################
 
 Install Ubuntu 20.04.3 on Oracle VM VirtualBox
 Update packages === sudo apt update
@@ -30,7 +30,7 @@ sysadmin@ubuntuminikube:~$ helm version
 version.BuildInfo{Version:"v3.7.1", GitCommit:"1d11fcb5d3f3bf00dbe6fe31b8412839a96b3dc4", GitTreeState:"clean", GoVersion:"go1.16.9"}
 
 
-###################################### HELLO-APP DEPLOYMENT ####################################################################
+######################## HELLO-APP DEPLOYMENT ##############################
 
 Copy manifest files
 create directory hello-app and copy manifests files into this directory
