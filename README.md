@@ -94,7 +94,7 @@ sysadmin@ubuntuminikube:~/hello-app$ git commit -m "first commit"
  create mode 100644 helloweb-hpa.yaml
  create mode 100644 helloweb-ingress-static-ip.yaml
 sysadmin@ubuntuminikube:~/hello-app$ git branch -M main
-sysadmin@ubuntuminikube:~/hello-app$ git remote add master https://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@github.com/Oluolapeju/hello-app.git
+sysadmin@ubuntuminikube:~/hello-app$ git remote add master https://github.com/Oluolapeju/hello-app.git
 sysadmin@ubuntuminikube:~/hello-app$ git push -u master main
 Enumerating objects: 5, done.
 Counting objects: 100% (5/5), done.
